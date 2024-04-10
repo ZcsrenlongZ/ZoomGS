@@ -4,6 +4,7 @@ PyTorch implementation of [**Dual-Camera Smooth Zoom on Mobile Phones**](http://
 
 [![arXiv](https://img.shields.io/badge/arXiv-2404.04908-b10.svg)](http://arxiv.org/abs/2404.04908.pdf)
 [![Project](https://img.shields.io/badge/Project-Website-orange)](https://dualcamerasmoothzoom.github.io/)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ZcsrenlongZ.ZoomGS)
 
 
 
