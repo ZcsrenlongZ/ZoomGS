@@ -1,0 +1,13 @@
+# ninja log v5
+0	9399	1701671000177725445	/hdd/NeRF/FSGS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	d13f80a8e364c0c1
+0	15163	1701671005933171672	/hdd/NeRF/FSGS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	c5f16d3c84b0efc5
+0	33385	1701671024167503457	/hdd/NeRF/FSGS-main/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	2fd12c0015371395
+1	8643	1719988546898619875	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	2e7b7b920020fd75
+0	14251	1719988552498526401	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	e6f525823b6c0c17
+1	33505	1719988571758205090	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	ea3c8f8b59da5658
+3	9245	1719995562428250701	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	926827bb9b88943b
+3	15121	1719995568296292457	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	c205f7e891a338d1
+3	34767	1719995587944430559	/media/wrl/8T/WorkPack/Work/DCSZ/codes/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	f722f81b8da799a0
+1	9410	1720064105	/hdd1/wrl/DCSZ/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/simple_knn.o	6b2d837972bf8ee6
+0	15866	1720064112	/hdd1/wrl/DCSZ/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/ext.o	d03cedfc9a3302e
+1	35804	1720064132	/hdd1/wrl/DCSZ/ZoomGS/submodules/simple-knn/build/temp.linux-x86_64-cpython-37/spatial.o	ef488e495388242
