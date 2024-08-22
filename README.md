@@ -134,7 +134,7 @@ Special thanks to the following awesome projects!
 ## Citation
 If you make use of our work, please cite our paper.
 ```bibtex
-@article{wu2024dual,
+@article{DCSZ,
   title={Dual-Camera Smooth Zoom on Mobile Phones},
   author={Wu, Renlong and Zhang, Zhilu and Yang, Yu and Zuo, Wangmeng},
   journal={ECCV},
