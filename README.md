@@ -137,7 +137,7 @@ If you make use of our work, please cite our paper.
 @article{wu2024dual,
   title={Dual-Camera Smooth Zoom on Mobile Phones},
   author={Wu, Renlong and Zhang, Zhilu and Yang, Yu and Zuo, Wangmeng},
-  journal={arXiv preprint arXiv:2404.04908},
+  journal={ECCV},
   year={2024}
 }
 ```
