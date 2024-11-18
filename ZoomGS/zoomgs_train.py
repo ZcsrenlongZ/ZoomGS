@@ -63,8 +63,8 @@ def training(dataset, opt, pipe, args):
 
         viewpoint_stack = scene.getTrainCameras().copy()
 
-        viewpoint_stack_uw = viewpoint_stack[0 : len(viewpoint_stack)//2]
-        viewpoint_stack_wide = viewpoint_stack[len(viewpoint_stack)//2 : ]
+        viewpoint_stack_uw = viewpoint_stack[0 : 10]
+        viewpoint_stack_wide = viewpoint_stack[10 : ]
 
         ema_loss_for_log = 0.0
         first_iter += 1
