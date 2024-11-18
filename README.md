@@ -39,7 +39,7 @@ Overview of the proposed method. (a) Data preparation for data factory. We colle
 
 ### 3.2 Datasets
 Please download data from Baidu Netdisk (Chinese: 百度网盘).
-- Dataset for zoomGS: https://pan.baidu.com/s/1tZ326PQ7SI_LoDAMreXbBQ 提取码: xje3 
+- Dataset for zoomGS:  https://pan.baidu.com/s/1lKcAs12vDzHODBKBPa3fEw?pwd=tarf 
 - Dataset for FI: https://pan.baidu.com/s/1rIaAc2Huprl796qguiB8AQ 提取码: w4zf 
 
 ### 3.3 Pretrained models
